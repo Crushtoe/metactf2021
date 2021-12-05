@@ -54,6 +54,8 @@ Oh wait!
 
 A quick trip to South Indiana, meanwhile, shows [forests that resemble our search goal. Tall, dense trees, set a ways back from the road.](https://www.google.com/maps/@38.4169464,-86.4501192,3a,75y,124.02h,88.4t/data=!3m7!1e1!3m5!1sRHcIu630LTqTrvcV-vkJbA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DRHcIu630LTqTrvcV-vkJbA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D278.72278%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656)
 
+![South Indiana Trees](https://cdn.discordapp.com/attachments/315514139491565568/917196563917463592/unknown.png)
+
 Great! We've reduced our search area to the forests of South Indiana! That gets rid of half the state. From here, let's take advantage of the fact that we know the picture was:
 * Taken within a public forest area.
 * Of a funeral parlor.
