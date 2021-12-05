@@ -3,6 +3,14 @@
 
 On its face, New Spot seems difficult, but as we’ll find out, it’s a rather textbook recon problem.
 
+## Description
+
+> We are looking for where Vedder might frequently visit these days. He may like visiting a regular event that's free in his area hosted by a friend that is about his primary career interests. I'm not sure where he might say he hangs out at now, but it seems everyone has a finsta these days...
+> 
+>Hint: recommend also checking the app for the later part as there may be inconsistencies in the data displayed between the app and the website
+>
+>The answer should represent the MD5 hash of the address of the location. For example, if the address is: "150 Greenwich St, New York, NY 10006" then the flag will be e8244cb2f4d53117e9797af909123e86. Make sure to have the address format the same as above.
+
 ## Givens 
 Let’s begin with outlining our given information:
 * We know his name is Vadder Casyn. With a small bit of effort, we can google his name and get a LinkedIn (url) that links to his website (url). From here, we can get his interests, job, and where he lives and works:
