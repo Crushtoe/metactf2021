@@ -46,7 +46,7 @@ Scroll through all the images in this post, keeping a careful eye for content --
   
 Follow through [and we get linked to the key of this hunt, the fabled finsta.](https://www.instagram.com/the_1_and_only_vc/) He only has one post: him at an unidentified location, enjoying the scenery.
 
-![Pic 1](https://cdn.discordapp.com/attachments/315514139491565568/917164659755327508/263788934_602746667630176_4577603561907956396_n.jpg) ![Pic 2](https://cdn.discordapp.com/attachments/315514139491565568/917164659755327508/263788934_602746667630176_4577603561907956396_n.jpg) ![Pic 3](https://cdn.discordapp.com/attachments/315514139491565568/917164660246085723/263796545_424680515913874_7260156234909162154_n.jpg)
+![Pic 1](https://cdn.discordapp.com/attachments/315514139491565568/917164659755327508/263788934_602746667630176_4577603561907956396_n.jpg) ![Pic 2](https://cdn.discordapp.com/attachments/315514139491565568/917164659998593174/263344585_1276162722859549_2001056144954211224_n.jpg) ![Pic 3](https://cdn.discordapp.com/attachments/315514139491565568/917164660246085723/263796545_424680515913874_7260156234909162154_n.jpg)
 ## Geolocating a Picture
 
 Here, our recon toolkit should kick in. We have multiple pictures, so what do we do with it? We check it. First, we check for EXIF data. If there's a coordinate attached to it, that'd speed things up big time. Unfortunately, no coordinates, so we're going to have to do this the old fashioned way: identify where the pictures were taken.
