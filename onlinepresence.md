@@ -40,7 +40,7 @@ And that's our givens! Now, let's see what extra information we can find that'll
 
 To really make this possible, there's two big things we want to try and find: his career interests and his local area. Other information that crops up, we'll make notes of as well, just in case.
 
-We know his name is Vedder Casyn. With a small bit of effort, we can google his name and get a [LinkedIn](https://www.linkedin.com/in/vedder-casyn) that links to his [website](https://veddercasyn.me/). From here, we can get his interests, job, and where he lives and works:
+* We know his name is Vedder Casyn. With a small bit of effort, we can google his name and get a [LinkedIn](https://www.linkedin.com/in/vedder-casyn) that links to his [website](https://veddercasyn.me/). From here, we can get his interests, job, and where he lives and works:
     * He lives in Hammond, Indiana, meaning his homestate is Indiana!
     * He works in Chicagoland, meaning he's involved with the Chicago metropolitan area.
     * He works in personal training at Planet Fitness. 
