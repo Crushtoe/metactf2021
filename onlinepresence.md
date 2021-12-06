@@ -2,11 +2,11 @@
 
 This problem's solution was simple, but getting on the right path to the solution was maybe not. I got a lot of DMs from people asking for hints or talking about their process and asking for hints, and while I only ever directed them to MetaMail, I learned a lot about how people approached and struggled with this problem. In light of that, I'm going to break this write-up into three main sections:
 
-* Reading the Problem
-* Getting the Solution
-* The Solution
+* [Reading the Problem](https://github.com/Crushtoe/metactf2021/blob/main/onlinepresence.md#reading-the-problem)
+* [Getting the Solution](https://github.com/Crushtoe/metactf2021/blob/main/onlinepresence.md#getting-the-solution)
+* [The Solution](https://github.com/Crushtoe/metactf2021/blob/main/onlinepresence.md#the-solution)
 
-This is because I think, especially in this problem, it's important that one understands the intention behind a problem and what's being hinted at. If one does not understand the clues being given, then they'll end up struggling to solve it, as the dozen DMs I got show. If you want to skip that and go straight to my solution, then go on down to "The Solution."
+This is because I think, especially in this problem, it's important that one understands the intention behind a problem and what's being hinted at. If one does not understand the clues being given, then they'll end up struggling to solve it, as the dozen DMs I got show. If you want to skip that and go straight to my solution, then go on down to ["The Solution."](https://github.com/Crushtoe/metactf2021/blob/main/onlinepresence.md#the-solution)
 
 Ultimately, I conclude with working smarter, not harder, and using a pre-made script to get the job done. If you'd like to see a write-up that goes about this by coding your own solution (or just less of a lesson on recon), see [here](https://github.com/team23ctf/writeups/blob/main/metactf2021/Online%20Presence/Online%20Presence.md).
 
